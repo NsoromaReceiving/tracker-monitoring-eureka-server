@@ -1,4 +1,4 @@
-FROM maven:3.6.2-jdk-8 As Package
+FROM maven:3.6.2-jdk-8-slim As Package
 
 COPY src /usr/app/src
 
