@@ -23,5 +23,4 @@ pipelines:
 definitions:
   services:
     docker:
-      memory: 128  # reduce memory for docker-in-docker from 1GB to 512MB
-
+      memory: 2048  #increasing docker memory size
