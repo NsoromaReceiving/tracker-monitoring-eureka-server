@@ -2,12 +2,7 @@
 
 ## Quick summary ##
 
-This application serves as spring cloud eureka server to clients
-
-* [Eureka-Server] (https://banabasave@bitbucket.org/banabasave/tracker-monitoring-scheduler.git) 
-* [nsoroma-tracker-monitoring-service] (https://banabasave@bitbucket.org/hawkmanlabs/nsoroma-tracker-monitoring-service.git)
-
-It uses [Spring Boot](http://projects.spring.io/spring-boot/) to start Spring context and run the application and [Spring Cloud Eureka](https://cloud.spring.io/spring-cloud-netflix/) to integrate Netflix implementation into Spring.
+This application serves as spring cloud eureka server to both the tracking and scheduler service
 
 ##Version
 
